@@ -14,6 +14,7 @@ for different sections of news
 - Technologies Used: ReactJS, Material UI
 - [News API](https://newsapi.org/)
 
+- Deployed on Netlify: https://newsdayio.netlify.app/
 
 - Technologies used: React.js, Material UI, React Hooks, API data fetching
 
