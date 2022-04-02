@@ -1,8 +1,18 @@
 # News Feeding website using ReactJS and Material UI
 
+![Screenshot (598)](https://user-images.githubusercontent.com/69413168/161381874-26eb58b0-42e8-46c4-9af6-c3b7c8061dc8.png)
+
 ## Introduction: 
 
-![Screenshot (598)](https://user-images.githubusercontent.com/69413168/161381874-26eb58b0-42e8-46c4-9af6-c3b7c8061dc8.png)
+NewsDay.io is a news feeding website with
+multiple news sections like entertainment,
+Technology, Science, Sports, Business etc.
+
+Multiple APIs are fetched from newsapi.org
+for different sections of news
+
+- Technologies Used: ReactJS, Material UI
+- 
 
 
 
