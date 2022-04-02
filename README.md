@@ -12,7 +12,12 @@ Multiple APIs are fetched from newsapi.org
 for different sections of news
 
 - Technologies Used: ReactJS, Material UI
-- 
+- [News API](https://newsapi.org/)
+
+
+- Technologies used: React.js, Material UI, React Hooks, API data fetching
+
+- Setup: run ```npm i && npm start``` to start the development server
 
 
 
