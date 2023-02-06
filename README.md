@@ -26,4 +26,5 @@ for different sections of news
 ## Live Demo of NewDay.io:
 
 https://user-images.githubusercontent.com/69413168/161381690-a39613b2-9e1a-4c88-a09a-f6c9cc048f7c.mp4
-https://www.veed.io/view/c224444e-83c1-4d2b-a776-54b6d2fb76b6?source=compressor-sharing
+
+![Untitled_AdobeExpress](https://user-images.githubusercontent.com/69413168/216891184-205cc65f-eb57-488a-a580-710398349137.gif)
