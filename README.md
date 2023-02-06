@@ -27,4 +27,4 @@ for different sections of news
 
 https://user-images.githubusercontent.com/69413168/161381690-a39613b2-9e1a-4c88-a09a-f6c9cc048f7c.mp4
 
-![Untitled_AdobeExpress](https://user-images.githubusercontent.com/69413168/216891184-205cc65f-eb57-488a-a580-710398349137.gif)
+https://user-images.githubusercontent.com/69413168/216891184-205cc65f-eb57-488a-a580-710398349137.gif
