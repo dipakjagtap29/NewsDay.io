@@ -25,6 +25,7 @@ for different sections of news
 
 ## Live Demo of NewDay.io:
 
-https://user-images.githubusercontent.com/69413168/161381690-a39613b2-9e1a-4c88-a09a-f6c9cc048f7c.gif
+https://user-images.githubusercontent.com/69413168/161381690-a39613b2-9e1a-4c88-a09a-f6c9cc048f7c.mp4
 
 
+![Untitled_AdobeExpress (1)](https://user-images.githubusercontent.com/69413168/216892261-d71a41c4-e301-4788-9f68-8696c1e46d5e.gif)
